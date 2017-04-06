@@ -25,5 +25,4 @@ Scripts to train SMT baseline models using Moses.
         ./decode.sh
 
 data: bilingual corpora
-
-        training: tr-en https://drive.google.com/drive/folders/0B3-gB0BkLbCtT1Y3cG8yNVdaWnc?usp=sharing
+     training: tr-en https://drive.google.com/drive/folders/0B3-gB0BkLbCtT1Y3cG8yNVdaWnc?usp=sharing
