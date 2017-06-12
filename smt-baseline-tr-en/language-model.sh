@@ -1,6 +1,7 @@
 #!/bin/sh
 
-MOSES_DIR=/work/$USER/moses/mosesdecoder
+MOSES_DIR=/path-to-moses/mosesdecoder
+
 
 SRCLANG=tr
 TRGLANG=en
